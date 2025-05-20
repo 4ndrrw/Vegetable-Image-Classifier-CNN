@@ -1,5 +1,16 @@
 {
   "cSpell.words": [
-    "hypermodel"
+    "cmap",
+    "crossentropy",
+    "figsize",
+    "grayscale",
+    "hasattr",
+    "hypermodel",
+    "imshow",
+    "keras",
+    "matplotlib",
+    "numpy",
+    "pathlib",
+    "pyplot"
   ]
 }
