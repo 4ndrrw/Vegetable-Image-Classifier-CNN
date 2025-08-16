@@ -1,6 +1,6 @@
 # 🥦 Vegetable Image Classifier CNN 
 
-![Vegetable Banner](Vegetables.jpg)
+![Vegetable Banner](vegetables.png)
 
 **A Convolutional Neural Network (CNN) for classifying grayscale vegetable images into multiple classes at two resolutions (23x23 and 101x101).**
 
